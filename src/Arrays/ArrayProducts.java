@@ -1,6 +1,8 @@
+package Arrays;
+
 import java.util.Scanner;
 import java.util.Vector;
-
+//TODO : Need to update the logic
 public class ArrayProducts {
     public static void main(String[] args){
        // Integer[] input ;
@@ -13,6 +15,7 @@ public class ArrayProducts {
             v1.add(sc.nextInt());
         }
         System.out.println(v1);
+
 
         //logic
         for(int i=0;i<n;i++){
